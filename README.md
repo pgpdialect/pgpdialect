@@ -1,4 +1,7 @@
-## Hi there 👋
+## DG4E
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00FF00&center=true&vCenter=true&lines=digital+gangster)](https://git.io/typing-svg)
+
 
 <!--
 **pgpdialect/pgpdialect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
