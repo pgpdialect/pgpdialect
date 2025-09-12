@@ -1,24 +1,37 @@
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00FF00&lines=108308_" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00FF00&center=true&vCenter=true&lines=digital+gangster)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://files.catbox.moe/r5pbb4.gif" width="400" />
+</p>
 
 
-![Alt text](https://i.imgur.com/krBb85h.jpeg)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=435&lines=OSINT)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&size=28&center=true&vCenter=true&width=435&lines=Cybersecurity)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=AA00FF&size=28&center=true&vCenter=true&width=435&lines=Hack+The+Planet)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFA500&size=28&center=true&vCenter=true&width=435&lines=DG4E)
 
 
 ```
 OSINT to find missing people
-Not a com kid
+Cybersecurity to hack the planet
 I use arch btw
 email: mrfancyDG4E@protonmail.com
-shouts the usual
 ```
-![Digital Gangster](https://img.shields.io/badge/Digital-Gangster-brightgreen?logo=github)
-![OSINT](https://img.shields.io/badge/OSINT-blue?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAHklEQVQYV2NkYGD4z0AEYBxVSFIA1Z2VgAEAfZkI/g/BgLgAAAABJRU5ErkJggg==)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white">
+  <img src="https://img.shields.io/badge/Digital-Gangster-brightgreen?style=for-the-badge&logo=bitcoin&logoColor=white">
+  <img src="https://img.shields.io/badge/Arch-Linux-blue?style=for-the-badge&logo=archlinux&logoColor=white">
+  <img src="https://img.shields.io/badge/OSINT-blue?style=for-the-badge&logo=searxng&logoColor=white">
+</p>
 
-──────────────────────────────
+<p align="center">
+  ~~~~~~~~~~~~~~~~~
+</p>
 
 ```
 decompiled dgs eternal:
@@ -54,4 +67,8 @@ killakalli@digitalgangster:~$
 coolio@digitalgangster:~$
 coolio@digitalgangster:~$
 kaleena@digitalgangster:~$
+
 ```
+
+<p align="center">
+Shouts: 0xslayy, spectrax, statik, YTCracker
