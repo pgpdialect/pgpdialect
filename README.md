@@ -8,7 +8,9 @@
   <img src="https://files.catbox.moe/r5pbb4.gif" width="400" />
 </p>
 
-
+    
+    
+    
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=435&lines=OSINT)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FFFF&size=28&center=true&vCenter=true&width=435&lines=Cybersecurity)
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=AA00FF&size=28&center=true&vCenter=true&width=435&lines=Hack+The+Planet)
