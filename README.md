@@ -13,7 +13,6 @@
 OSINT to find missing people
 Cybersecurity to hack the planet
 I use arch btw
-email: mrfancyDG4E@protonmail.com
 ```
 
 <p align="center">
